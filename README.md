@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [rodrigoaraujoei](rodrigoaraujoei)
 
-- 💬 Ask me about **Javascript, Database**
+- 💬 Ask me about **HTML, CSS, Javascript and SQL**
 
 - 📫 How to reach me **rodrigoaraujoei@gmail.com**
 
