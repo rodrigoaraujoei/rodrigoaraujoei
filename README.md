@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
-- 👨‍💻 All of my projects are available at [rodrigoaraujoei.com](rodrigoaraujoei)
+- 👨‍💻 All of my projects are available at [rodrigoaraujoei](rodrigoaraujoei.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript and SQL**
 
