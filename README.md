@@ -29,10 +29,14 @@
   </a> 
 </p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&layout=compact" alt="rodrigoaraujoei" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en" alt="rodrigoaraujoei" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&" alt="rodrigoaraujoei" /></p>
+<div align="center">
+ <div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&layout=compact" alt="rodrigoaraujoei" /></p>
+ </div>
+ <div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en" alt="rodrigoaraujoei" /></p>
+ </div>
+ <div>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&" alt="rodrigoaraujoei" /></p>
+ </div>
 </div>
