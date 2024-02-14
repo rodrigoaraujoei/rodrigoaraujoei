@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rodrigoaraujoei)
+
 <h1 align="center">Hi 👋, I'm Rodrigo Araújo</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **ReactJS and Typescript**
 
 - 👨‍💻 All of my projects are available at [rodrigoaraujoei](rodrigoaraujoei)
 
