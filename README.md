@@ -33,9 +33,10 @@
   </a> 
 </p>
 
-<h1 align="center"></h1>
+
 
 <div align="center">
+ <h1 align="center"></h1>
  <div>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&layout=compact" alt="rodrigoaraujoei" /></p>
  </div>
@@ -43,7 +44,7 @@
  <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en" alt="rodrigoaraujoei" /></p>
  </div>
- 
+ <h1 align="center"></h1>
  <div>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&" alt="rodrigoaraujoei" /></p>
  </div>
