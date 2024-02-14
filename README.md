@@ -1,17 +1,21 @@
-![Design and Development](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![Design and Development](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">Hi 👋, I'm Rodrigo Araújo</h1>
-<h3 align="center">A Passionate Full-Stack Developer From Portugal</h3>
+<h1 align="center">👋 Hey, fellow code explorer! 🚀 I'm Rodrigo Araújo. 😎</h1>
+<h3 align="center">🚀 Welcome to my little corner of the coding Universe! 🌌 I'm a dreamer and a doer, passionate about bringing ideas to life through the power of code and turning concepts into reality. Let's embark on this journey of creation together! 🔥</h3>
 
+<img src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966" align="right" alt="Coding" width="300" >
 
- <p align="center">🌱 I’m currently learning <strong>ReactJS and Typescript</strong></p>
+<h3 align="left">🧠 About me:</h3>
 
- <p align="center">👨‍💻 All of my projects are available at <a href="https://rodrigoaraujoei.com/" target="_blank">https://rodrigoaraujoei.com/</a></p>
+ <p align="left">🚀 Embarking in the world of <strong> Full Stack</strong></p>
+ 
+ <p align="left">🎉 Cheers to endless loops and bug-free adventures!🔥</p>
 
- <p align="center">💬 Ask me about <strong>HTML, CSS, Javascript, NodeJS and SQL</strong></p>
+ <p align="left">💡 Multi-task <strong>Genius</strong</p>
 
- <p align="center">📫 How to reach me <strong>rodrigoaraujoei@gmail.com</strong></p>
+ <p align="left">📫 How to reach me <strong>rodrigoaraujoei@gmail.com</strong></p>
 
+ <p align="left">👨‍💻 All of my projects are available at <a href="https://rodrigoaraujoei.com/" target="_blank">https://rodrigoaraujoei.com/</a></p>
 
 
 
