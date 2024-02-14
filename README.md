@@ -4,15 +4,15 @@
 <h3 align="center">A Passionate Full-Stack Developer From Portugal</h3>
 
 
-<p align="center">- 🔭 I’m currently working on [my Portfolio](https://rodrigoaraujoei.com/)</p>
+- 🔭 I’m currently working on [my Portfolio](https://rodrigoaraujoei.com/)
 
-<p align="center">- 🌱 I’m currently learning **ReactJS and Typescript**</p>
+- 🌱 I’m currently learning **ReactJS and Typescript**
 
-<p align="center">- 👨‍💻 All of my projects are available at [rodrigoaraujoei.com](https://rodrigoaraujoei.com/)</p>
+- 👨‍💻 All of my projects are available at [https://rodrigoaraujoei.com/](https://rodrigoaraujoei.com/)
 
-<p align="center">- 💬 Ask me about **HTML, CSS, Javascript, NodeJS and SQL**</p>
+- 💬 Ask me about **HTML, CSS, Javascript, NodeJS and SQL**
 
-<p align="center">- 📫 How to reach me **rodrigoaraujoei@gmail.com**</p>
+- 📫 How to reach me **rodrigoaraujoei@gmail.com**
 
 
 
