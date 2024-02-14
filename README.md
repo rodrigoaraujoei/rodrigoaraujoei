@@ -43,5 +43,5 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en" width="370" alt="rodrigoaraujoei" /></p>
 
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&" width="400" alt="rodrigoaraujoei" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&" width="390" alt="rodrigoaraujoei" /></p>
 
