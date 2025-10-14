@@ -18,7 +18,10 @@
 
  <p align="left">📫 How to reach me <strong>rodrigoaraujoei@gmail.com</strong></p>
 
- <p align="left">👨‍💻 All of my projects are available at [rodrigoaraujoei.com](https://www.rodrigoaraujoei.com)</p>
+ <p align="left">👨‍💻 All of my projects are available at 
+<a href="https://www.rodrigoaraujoei.com" target="_blank">rodrigoaraujoei.com</a>
+</p>
+
 
 #
 
