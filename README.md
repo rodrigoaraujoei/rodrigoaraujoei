@@ -6,8 +6,8 @@
 
 #
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">
-
+<!--<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">-->
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="right" alt="Coding" width="360" height="200">
 <h3 align="left">🧠 About me:</h3>
 
  <p align="left">🚀 Embarking in the world of <strong> Full Stack</strong></p>
