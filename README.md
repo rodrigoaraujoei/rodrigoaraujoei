@@ -24,8 +24,8 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/rodrigoaraujoei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://rodrigoaraujoei.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/216701/internet.svg" alt="4214976" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/rodrigoaraujoei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/roderickbenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
