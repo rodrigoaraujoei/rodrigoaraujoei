@@ -1,6 +1,6 @@
 ![Design and Development](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">👋 Hello, fellow code explorer! I'm Rodrigo Araújo.</h1>
+<h1 align="center">👋 Hello, I'm Rodrigo Araújo.</h1>
 <h3 align="center">Welcome to my fortress in the coding World! 🌍 I'm a Full Stack Developer dedicated in professional growth. Embracing a healthy and active lifestyle.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" alt="Coding" width="1000">
 
