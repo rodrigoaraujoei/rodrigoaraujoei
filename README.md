@@ -22,12 +22,12 @@
 
 #
 
-<h3 align="left">🌐 Socials:</h3>
-
+🔗 &nbsp;**Connect with me**
 <p align="left">
-  <a href="https://linkedin.com/in/rodrigoaraujoei" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="rodrigoaraujoei" height="20" width="90" /></a>
-  <a href="https://instagram.com/roderichbenz" target="blank"><img align="center" src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="roderichbenz" height="20" width="90" /></a>
-</p>
+<a href="https://linkedin.com/in/rodrigoaraujoei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://rodrigoaraujoei.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/216701/internet.svg" alt="4214976" height="35" width="40" /></a>
+<a href="https://instagram.com/roderickbenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
 #
 
