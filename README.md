@@ -60,7 +60,7 @@
 
 ### 📊 Stats
 
-<p align="left" style="display: flex; gap: 5px;">
+<p align="left" style="display: flex; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox" alt="Rodrigo's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Top Langs" height="165"/>
 </p>
