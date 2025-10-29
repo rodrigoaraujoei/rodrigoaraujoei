@@ -60,6 +60,7 @@
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoaraujoei&theme=gruvbox)
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox" alt="Rodrigo's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoaraujoei&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Top Langs" height="165"/>
+</p>
