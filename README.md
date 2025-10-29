@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hello, I'm Rodrigo Araújo.</h1>
+<h1 align="center">Hello, I'm Rodrigo Araújo. 👋 </h1>
 <h3 align="center">I'm a Full Stack Developer dedicated in professional growth. Embracing a healthy and active lifestyle.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" alt="Coding" width="1000">
 
