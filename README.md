@@ -11,10 +11,12 @@
 <h3 align="left">🧠 About me:</h3>
 
  <p align="left">🚀 Embarking in the world of <strong> Full Stack</strong></p>
- 
- <p align="left">🎉 Cheers to endless loops and bug-free adventures!</p>
 
- <p align="left">💡 Multi-task <strong>Genius</strong</p>
+ <p align="left">🌱 Always curious, always improving </strong></p>
+
+ <p align="left">💡 Believer in lifelong learning and creative problem-solving</p>
+
+ <p align="left">🎉 Building cool things one line of code at a time</p>
 
  <p align="left">📫 How to reach me <strong>rodrigoaraujoei@gmail.com</strong></p>
 
